@@ -1,6 +1,6 @@
 # Using GameCube Controllers with Dolphin's Integrated mGBA on macOS
 
-**A workaround for playing *The Legend of Zelda: Four Swords Adventures* with GameCube controllers through Dolphin's integrated mGBA.**
+**A workaround for using GameCube controllers through Dolphin's integrated mGBA.**
 
 I have a Gamecube controller to USB adapter from the WiiU days that I wanted to use to have 4 GC controllers control mGBA instances in Dolphin (e.g., to play Four Swords Adventure or Final Fantasy Crystal Chronicles). Unfortunately, Dolphin doesn't seem to recognize the controllers via this adapter as normal digital controller inputs, something to do with a weird Nintendo USB protocol - at least on my Mac. So I worked with ChatGPT to make this workaround. 
 
