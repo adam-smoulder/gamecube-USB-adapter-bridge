@@ -39,7 +39,7 @@ Python reads the adapter's USB reports, separates the four controller ports, and
 ## Prerequisites
 
 - [Dolphin Emulator](https://dolphin-emu.org/)
-- [OpenJoystickDriver](https://github.com/OpenJoystickDriver) (OJD), with its service and virtual gamepad functionality enabled
+- [OpenJoystickDriver]([https://github.com/OpenJoystickDriver](https://github.com/xsyetopz/OpenJoystickDriver)) (OJD), with its service and virtual gamepad functionality enabled
 - [GCAdapterDriver](https://github.com/secretkeysio/GCAdapterDriver) — used in my tested setup, although I haven't verified whether it's strictly necessary for this Python-based approach
 - Python 3
 - The official Wii U GameCube controller adapter
